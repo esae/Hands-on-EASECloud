@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>easecloud</groupId>
-    <artifactId>easecloud</artifactId>
+    <artifactId>ch.fhnw.ease.easecloud</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
     <name>easecloud</name>
